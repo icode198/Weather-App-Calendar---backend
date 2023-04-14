@@ -50,7 +50,6 @@
   - [Testing](#testing)
     - [Coverage report](#coverage-report)
   - [Linters](#linters)
-- [Authors](#authors)
 - [🤝 Contributing](#-contributing)
 - [🤝 Acknowledgements](#-acknowledgements)
 - [Show your support](#show-your-support)
@@ -58,7 +57,7 @@
 
 
 ## About
-Weather App Calendar API is the API handling the core requests of the Weather Calendar App. The frontend is a ***fully responsive*** react web app deployed [here](https://weather-app-calendar.netlify.app/). The [repo for the front-end is here](https://github.com/StarSheriff2/Weather-App-Calendar---frontend). I built request tests for all endpoints, achieving a 97% test coverage. I also created tests for all models. I use JWT token to handle user authentication and authorization.
+Weather App Calendar API is the API handling the core requests of the Weather Calendar App. The frontend is a ***fully responsive*** react web app deployed [here](https://weather-app-calendar.netlify.app/). The [repo for the front-end is here](https://github.com/icode198/Weather-App-Calendar---frontend). I built request tests for all endpoints, achieving a 97% test coverage. I also created tests for all models. I use JWT token to handle user authentication and authorization.
 
 ### File Structure
 <div align="left"><img width="30%" alt="app screenshot mobile" src="./.github/images/file_structure_snap1.png">
@@ -75,7 +74,7 @@ Weather App Calendar API is the API handling the core requests of the Weather Ca
 ### Front-end React app
 - The front-end associated with this app is [here](https://weather-app-calendar.netlify.app).
 
-- The Github repo of the front-end is [here](https://github.com/StarSheriff2/Weather-App-Calendar---frontend).
+- The Github repo of the front-end is [here](https://github.com/icode198/Weather-App-Calendar---frontend).
 
 ### Live Demo
 
@@ -102,7 +101,7 @@ To get a local copy up and running, follow these simple example steps.
 1. Open your terminal or command prompt.
 2. If you do not have git installed in your system, skip this step and go to step 3; otherwise, go to the directory where you want to copy the project files and clone it by copying this text into your command prompt/terminal:
 ```
-  https://github.com/StarSheriff2/Weather-App-Calendar---backend.git
+  https://github.com/icode198/Weather-App-Calendar---backend.git
 ```
   <br>
 
@@ -202,17 +201,11 @@ To run ***Rubocop***, go to the root directory of your repository and copy/paste
 rubocop .
 ```
 
-## Authors
-👤 **Arturo Alvarez**
-- Github: [@StarSheriff2](https://github.com/StarSheriff2)
-- Twitter: [@ArturoAlvarezV](https://twitter.com/ArturoAlvarezV)
-- Linkedin: [Arturo Alvarez](https://www.linkedin.com/in/arturoalvarezv/)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/StarSheriff2/Weather-App-Calendar---backend/issues).
+Feel free to check the [issues page](https://github.com/icode198/Weather-App-Calendar---backend/issues).
 
 ## 🤝 Acknowledgements
 
@@ -225,4 +218,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/StarSheriff2/Weather-App-Calendar---backend/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/icode198/Weather-App-Calendar---backend/blob/main/LICENSE) licensed.
